@@ -164,7 +164,7 @@
 
                 <div class="row">
                     <div class="col-md-6 d-flex align-items-stretch">
-                        <div class="card" style='background-image: url("assets/img/our-values-1.jpg");'>
+                        <div class="card" style='background-image: url("assets/img/mision.jpg");'>
                             <div class="card-body">
                                 <h5 class="card-title"><a href="">Misión</a></h5>
                                 <p class="card-text">Producir maquinados y envases de calidad, para satisfacer las necesidades de los emprendedores y así el consumidor final tenga productos de calidad.</p>
@@ -181,7 +181,7 @@
 
                     </div>
                     <div class="col-md-12 d-flex align-items-stretch mt-4">
-                        <div class="card" style='background-image: url("assets/img/our-values-3.jpg");'>
+                        <div class="card" style='background-image: url("assets/img/politica.jpg");'>
                             <div class="card-body">
                                 <h5 class="card-title"><a href="">Política de calidad</a></h5>
                                 <p class="card-text">Comprometernos a producir maquinados y maquila de calidad, orientados a cumplir los requerimientos y compromisos establecidos por los clientes y las partes interesadas, a través de la mejora continua.</p>
