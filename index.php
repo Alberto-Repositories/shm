@@ -172,7 +172,7 @@
                         </div>
                     </div>
                     <div class="col-md-6 d-flex align-items-stretch mt-4 mt-md-0">
-                        <div class="card" style='background-image: url("assets/img/our-values-2.jpg");'>
+                        <div class="card" style='background-image: url("assets/img/vision.jpg");'>
                             <div class="card-body">
                                 <h5 class="card-title"><a href="">Visión</a></h5>
                                 <p class="card-text">Dar mayor alcance a nuestros productos, de manera digitar y agilizar los procesos de compra y venta, extendiendo nuestro mercado a nivel nacional con la creación de nuevas CEDIS.</p>
@@ -375,6 +375,9 @@
                     <li data-filter=".filter-app">Alcoholero</li>
                     <li data-filter=".filter-card">Garrafas</li>
                     <li data-filter=".filter-web">Maquinas</li>
+                    <li data-filter=".filter-web">Químico</li>
+                    <li data-filter=".filter-web">Tarro liso</li>
+                    <li data-filter=".filter-web">Tarro profesional</li>
                 </ul>
 
                 <div class="row portfolio-container">
