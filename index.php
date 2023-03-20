@@ -110,15 +110,15 @@
                 <div class="row content">
                     <div class="col-lg-6">
                         <p>
-                        SHM es una empresa 100% mexicana la cual inició operaciones en octubre de 1989, por su fundador el Sr. Salvador Hernández Morales, esto ante la demanda de los clientes de la zona, que buscaban emprender con la fabricación de productos de plástico, por lo que el fundador, ante la experiencia con la que ya contaba, comenzó a elaborar máquinas de soplado de plástico manuales y automatizadas, molinos y moldes.
+                            SHM es una empresa 100% mexicana la cual inició operaciones en octubre de 1989, por su fundador el Sr. Salvador Hernández Morales, esto ante la demanda de los clientes de la zona, que buscaban emprender con la fabricación de productos de plástico, por lo que el fundador, ante la experiencia con la que ya contaba, comenzó a elaborar máquinas de soplado de plástico manuales y automatizadas, molinos y moldes.
                         </p>
-                       <p>
-                       Ahora su trabajo lo conocen de manera nacional e internacional, sus servicios y sus productos se extendieron.
-                       </p>
+                        <p>
+                            Ahora su trabajo lo conocen de manera nacional e internacional, sus servicios y sus productos se extendieron.
+                        </p>
                     </div>
                     <div class="col-lg-6 pt-4 pt-lg-0">
                         <p>
-                        Años después debido la solicitud de los clientes y la experiencia del Fundador en metalmecánica, se empezó a fabricar productos de temporada, así es como en noviembre del año 2010, se creó la fábrica de elaboración de productos de polietileno, la cual tomó más fuerza en el año 2020 cuando se decretó la pandemia mundial, elaborando envases para sanitización, con esto extendiendo aún más el mercado nacional e internacional.  
+                            Años después debido la solicitud de los clientes y la experiencia del Fundador en metalmecánica, se empezó a fabricar productos de temporada, así es como en noviembre del año 2010, se creó la fábrica de elaboración de productos de polietileno, la cual tomó más fuerza en el año 2020 cuando se decretó la pandemia mundial, elaborando envases para sanitización, con esto extendiendo aún más el mercado nacional e internacional.
                         </p>
                     </div>
                 </div>
@@ -176,7 +176,7 @@
                         <div class="card" style='background-image: url("assets/img/vision.jpg");'>
                             <div class="card-body">
                                 <h5 class="card-title"><a href="">Visión</a></h5>
-                                <p class="card-text">Dar mayor alcance a nuestros productos, de manera digitar y agilizar los procesos de compra y venta, extendiendo nuestro mercado a nivel nacional con la creación de nuevas CEDIS.</p>
+                                <p class="card-text">Dar mayor alcance a nuestros productos, de manera digital y agilizar los procesos de compra y venta, extendiendo nuestro mercado a nivel nacional con la creación de nuevas CEDIS.</p>
                             </div>
                         </div>
 
@@ -375,14 +375,14 @@
                     <li data-filter="*" class="filter-active">Todo</li>
                     <li data-filter=".filter-app">Alcoholero</li>
                     <li data-filter=".filter-card">Garrafas</li>
-                    <li data-filter=".filter-web">Maquinas</li>
-                    <li data-filter=".filter-web">Químico</li>
-                    <li data-filter=".filter-web">Tarro liso</li>
+                    <li data-filter=".filter-machine">Maquinas</li>
+                    <li data-filter=".filter-chemical">Químico</li>
+                    <li data-filter=".filter-jar">Tarro liso</li>
                     <li data-filter=".filter-web">Tarro profesional</li>
                 </ul>
 
                 <div class="row portfolio-container">
-
+                    <!-- Alcoholero -->
                     <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                         <div class="portfolio-img"><img src="assets/img/alcoholero/alcoholera1-2(medio)R-2835g.png" class="img-fluid" alt=""></div>
                         <div class="portfolio-info">
@@ -392,17 +392,6 @@
                             <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
                     </div>
-
-                    <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                        <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt=""></div>
-                        <div class="portfolio-info">
-                            <h4>Web 3</h4>
-                            <p>Web</p>
-                            <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-                        </div>
-                    </div> -->
-
                     <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                         <div class="portfolio-img"><img src="assets/img/alcoholero/alcoholero-1-8-(un octavo)-R-28-15g.png" class="img-fluid" alt=""></div>
                         <div class="portfolio-info">
@@ -412,27 +401,6 @@
                             <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
                     </div>
-
-                    <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                        <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt=""></div>
-                        <div class="portfolio-info">
-                            <h4>Card 2</h4>
-                            <p>Card</p>
-                            <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 2"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-                        </div>
-                    </div> -->
-
-                    <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                        <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt=""></div>
-                        <div class="portfolio-info">
-                            <h4>Web 2</h4>
-                            <p>Web</p>
-                            <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 2"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
-                        </div>
-                    </div> -->
-
                     <div class="col-lg-4 col-md-6 portfolio-item filter-app">
                         <div class="portfolio-img"><img src="assets/img/alcoholero/alcoholero-1L-R-28-55g.png" class="img-fluid" alt=""></div>
                         <div class="portfolio-info">
@@ -451,40 +419,219 @@
                             <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
                     </div>
-
-                    <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                        <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt=""></div>
+                    <!-- Garrafa -->
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                        <div class="portfolio-img"><img src="assets/img/garrafa/familia de Garrafas.png" class="img-fluid" alt=""></div>
                         <div class="portfolio-info">
-                            <h4>Card 1</h4>
-                            <p>Card</p>
-                            <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 1"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                            <!-- <h4>App 3</h4> -->
+                            <p>familia de Garrafas</p>
+                            <a href="assets/img/alcoholero/familia de Garrafas.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="familia de Garrafas"><i class="bx bx-plus"></i></a>
+                            <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
-                    </div> -->
-
-                    <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-card">
-                        <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt=""></div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                        <div class="portfolio-img"><img src="assets/img/garrafa/garrafa 1-2 (medio) L  R-28   35g.png" class="img-fluid" alt=""></div>
                         <div class="portfolio-info">
-                            <h4>Card 3</h4>
-                            <p>Card</p>
-                            <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Card 3"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                            <!-- <h4>App 3</h4> -->
+                            <p>garrafa 1-2 (medio) L R-28 35g</p>
+                            <a href="assets/img/alcoholero/garrafa 1-2 (medio) L  R-28   35g.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="garrafa 1-2 (medio) L  R-28   35g"><i class="bx bx-plus"></i></a>
+                            <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
-                    </div> -->
-
-                    <!-- <div class="col-lg-4 col-md-6 portfolio-item filter-web">
-                        <div class="portfolio-img"><img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt=""></div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                        <div class="portfolio-img"><img src="assets/img/garrafa/garrafa 1L  R-28  55g.png" class="img-fluid" alt=""></div>
                         <div class="portfolio-info">
-                            <h4>Web 3</h4>
-                            <p>Web</p>
-                            <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Web 3"><i class="bx bx-plus"></i></a>
-                            <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a>
+                            <!-- <h4>App 3</h4> -->
+                            <p>garrafa 1L R-28 55g</p>
+                            <a href="assets/img/alcoholero/garrafa 1L  R-28  55g.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="garrafa 1L  R-28  55g"><i class="bx bx-plus"></i></a>
+                            <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
-                    </div> -->
-
+                    </div>
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-card">
+                        <div class="portfolio-img"><img src="assets/img/garrafa/garrafa de 1-4 (un cuarto)   R-28    20g.png" class="img-fluid" alt=""></div>
+                        <div class="portfolio-info">
+                            <!-- <h4>App 3</h4> -->
+                            <p>garrafa de 1-4 (un cuarto) R-28 20g</p>
+                            <a href="assets/img/alcoholero/garrafa de 1-4 (un cuarto)   R-28    20g.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="garrafa de 1-4 (un cuarto)   R-28    20g"><i class="bx bx-plus"></i></a>
+                            <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
+                        </div>
+                    </div>
+                    <!-- Maquina -->
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-machine">
+                        <div class="portfolio-img"><img src="assets/img/maquina/maquina de soplado automatica.jpg" class="img-fluid" alt=""></div>
+                        <div class="portfolio-info">
+                            <!-- <h4>Web 3</h4> -->
+                            <p>maquina de soplado automatica</p>
+                            <a href="assets/img/maquina/maquina de soplado automatica.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="maquina de soplado automatica"><i class="bx bx-plus"></i></a>
+                            <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-machine">
+                        <div class="portfolio-img"><img src="assets/img/maquina/maquina de soplado manual.jpg" class="img-fluid" alt=""></div>
+                        <div class="portfolio-info">
+                            <!-- <h4>Web 3</h4> -->
+                            <p>maquina de soplado manual</p>
+                            <a href="assets/img/maquina/maquina de soplado manual.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="maquina de soplado manual"><i class="bx bx-plus"></i></a>
+                            <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-machine">
+                        <div class="portfolio-img"><img src="assets/img/maquina/maquina extrusora de soplado automatica.jpg" class="img-fluid" alt=""></div>
+                        <div class="portfolio-info">
+                            <!-- <h4>Web 3</h4> -->
+                            <p>maquina extrusora de soplado automatica</p>
+                            <a href="assets/img/maquina/maquina extrusora de soplado automatica.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="maquina extrusora de soplado automatica"><i class="bx bx-plus"></i></a>
+                            <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
+                        </div>
+                    </div>
+                    <!-- Quimico -->
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-chemical">
+                        <div class="portfolio-img"><img src="assets/img/quimico/aceitero 1L R-28  60g.png" class="img-fluid" alt=""></div>
+                        <div class="portfolio-info">
+                            <!-- <h4>Web 3</h4> -->
+                            <p>aceitero 1L R-28 60g.png</p>
+                            <a href="assets/img/quimico/aceitero 1L R-28  60g.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="aceitero 1L R-28  60g"><i class="bx bx-plus"></i></a>
+                            <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-chemical">
+                        <div class="portfolio-img"><img src="assets/img/quimico/aceitero de cuallo  largo 1 y medio Litros  R-28  70g.png" class="img-fluid" alt=""></div>
+                        <div class="portfolio-info">
+                            <!-- <h4>Web 3</h4> -->
+                            <p>aceitero de cuallo largo 1 y medio Litros R-28 70g.png</p>
+                            <a href="assets/img/quimico/aceitero de cuallo  largo 1 y medio Litros  R-28  70g.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="aceitero 1L R-28  60g"><i class="bx bx-plus"></i></a>
+                            <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-chemical">
+                        <div class="portfolio-img"><img src="assets/img/quimico/anticonjelante 1L  R-38    70g.png" class="img-fluid" alt=""></div>
+                        <div class="portfolio-info">
+                            <!-- <h4>Web 3</h4> -->
+                            <p>anticonjelante 1L R-38 70g.png</p>
+                            <a href="assets/img/quimico/anticonjelante 1L  R-38    70g.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="anticonjelante 1L  R-38    70g"><i class="bx bx-plus"></i></a>
+                            <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-chemical">
+                        <div class="portfolio-img"><img src="assets/img/quimico/familia envase quimico.png" class="img-fluid" alt=""></div>
+                        <div class="portfolio-info">
+                            <!-- <h4>Web 3</h4> -->
+                            <p>familia envase quimico.png</p>
+                            <a href="assets/img/quimico/familia envase quimico.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="familia envase quimico"><i class="bx bx-plus"></i></a>
+                            <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
+                        </div>
+                    </div>
+                    <!-- Tarro liso -->
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-jar">
+                        <div class="portfolio-img"><img src="assets/img/tarro liso/familia tarro liso.png" class="img-fluid" alt=""></div>
+                        <div class="portfolio-info">
+                            <!-- <h4>Web 2</h4> -->
+                            <p>familia tarro liso</p>
+                            <a href="assets/img/tarro liso/familia tarro liso.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="familia tarro liso"><i class="bx bx-plus"></i></a>
+                            <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-jar">
+                        <div class="portfolio-img"><img src="assets/img/tarro liso/misil 1L R-38    90g.png" class="img-fluid" alt=""></div>
+                        <div class="portfolio-info">
+                            <!-- <h4>Web 2</h4> -->
+                            <p>misil 1L R-38 90g</p>
+                            <a href="assets/img/tarro liso/misil 1L R-38    90g.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="misil 1L R-38    90g"><i class="bx bx-plus"></i></a>
+                            <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-jar">
+                        <div class="portfolio-img"><img src="assets/img/tarro liso/tarro 2kg    R-110   100G-.png" class="img-fluid" alt=""></div>
+                        <div class="portfolio-info">
+                            <!-- <h4>Web 2</h4> -->
+                            <p>tarro 2kg R-110 100G-</p>
+                            <a href="assets/img/tarro liso/tarro 2kg    R-110   100G-.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="tarro 2kg    R-110   100G-"><i class="bx bx-plus"></i></a>
+                            <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-jar">
+                        <div class="portfolio-img"><img src="assets/img/tarro liso/tarro largo 1kg R-89  50g.png" class="img-fluid" alt=""></div>
+                        <div class="portfolio-info">
+                            <!-- <h4>Web 2</h4> -->
+                            <p>tarro largo 1kg R-89 50g</p>
+                            <a href="assets/img/tarro liso/tarro largo 1kg R-89  50g.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="tarro largo 1kg R-89  50g"><i class="bx bx-plus"></i></a>
+                            <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-jar">
+                        <div class="portfolio-img"><img src="assets/img/tarro liso/tarro liso 1 1-2 (kiloimedio)  R-110   75g-.png" class="img-fluid" alt=""></div>
+                        <div class="portfolio-info">
+                            <!-- <h4>Web 2</h4> -->
+                            <p>tarro liso 1 1-2 (kiloimedio) R-110 75g-</p>
+                            <a href="assets/img/tarro liso/tarro liso 1 1-2 (kiloimedio)  R-110   75g-.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="tarro liso 1 1-2 (kiloimedio)  R-110   75g-"><i class="bx bx-plus"></i></a>
+                            <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-jar">
+                        <div class="portfolio-img"><img src="assets/img/tarro liso/tarro liso 1kg  R-89   50g-.png" class="img-fluid" alt=""></div>
+                        <div class="portfolio-info">
+                            <!-- <h4>Web 2</h4> -->
+                            <p>tarro liso 1kg R-89 50g-</p>
+                            <a href="assets/img/tarro liso/tarro liso 1kg  R-89   50g-.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="tarro liso 1kg  R-89   50g-"><i class="bx bx-plus"></i></a>
+                            <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-jar">
+                        <div class="portfolio-img"><img src="assets/img/tarro liso/tarro liso 3kg   R-110   160g.png" class="img-fluid" alt=""></div>
+                        <div class="portfolio-info">
+                            <!-- <h4>Web 2</h4> -->
+                            <p>tarro liso 3kg R-110 160g</p>
+                            <a href="assets/img/tarro liso/tarro liso 3kg   R-110   160g.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="tarro liso 3kg   R-110   160g"><i class="bx bx-plus"></i></a>
+                            <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-jar">
+                        <div class="portfolio-img"><img src="assets/img/tarro liso/tarro liso 5kg   R-120   250g.png" class="img-fluid" alt=""></div>
+                        <div class="portfolio-info">
+                            <!-- <h4>Web 2</h4> -->
+                            <p>tarro liso 5kg R-120 250g</p>
+                            <a href="assets/img/tarro liso/tarro liso 5kg   R-120   250g.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="tarro liso 5kg   R-120   250g"><i class="bx bx-plus"></i></a>
+                            <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-jar">
+                        <div class="portfolio-img"><img src="assets/img/tarro liso/tarro liso medio   R-89   50g.png" class="img-fluid" alt=""></div>
+                        <div class="portfolio-info">
+                            <!-- <h4>Web 2</h4> -->
+                            <p>tarro liso medio R-89 50g</p>
+                            <a href="assets/img/tarro liso/tarro liso medio   R-89   50g.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="tarro liso medio   R-89   50g"><i class="bx bx-plus"></i></a>
+                            <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
+                        </div>
+                    </div>
+                    <!-- Tarro profesional -->
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                        <div class="portfolio-img"><img src="assets/img/tarro profesional/familia tarro profesional.png" class="img-fluid" alt=""></div>
+                        <div class="portfolio-info">
+                            <!-- <h4>Web 2</h4> -->
+                            <p>familia tarro profesional</p>
+                            <a href="assets/img/tarro profesional/familia tarro profesional.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="familia tarro profesional"><i class="bx bx-plus"></i></a>
+                            <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                        <div class="portfolio-img"><img src="assets/img/tarro profesional/tarro profesional 1 1-2 kiloimedio   R-110    75g.png" class="img-fluid" alt=""></div>
+                        <div class="portfolio-info">
+                            <!-- <h4>Web 2</h4> -->
+                            <p>tarro profesional 1 1-2 kiloimedio R-110 75g</p>
+                            <a href="assets/img/tarro profesional/tarro profesional 1 1-2 kiloimedio   R-110    75g.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="tarro profesional 1 1-2 kiloimedio   R-110    75g"><i class="bx bx-plus"></i></a>
+                            <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 portfolio-item filter-web">
+                        <div class="portfolio-img"><img src="assets/img/tarro profesional/tarro profesional 2kg  R-110   100g.png" class="img-fluid" alt=""></div>
+                        <div class="portfolio-info">
+                            <!-- <h4>Web 2</h4> -->
+                            <p>tarro profesional 2kg R-110 100g</p>
+                            <a href="assets/img/tarro profesional/tarro profesional 2kg  R-110   100g.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="tarro profesional 2kg  R-110   100g"><i class="bx bx-plus"></i></a>
+                            <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
+                        </div>
+                    </div>
                 </div>
-
-            </div>
         </section>
         <!-- End Portfolio Section -->
 
