@@ -375,7 +375,7 @@
                     <li data-filter="*" class="filter-active">Todo</li>
                     <li data-filter=".filter-app">Alcoholero</li>
                     <li data-filter=".filter-card">Garrafas</li>
-                    <li data-filter=".filter-machine">Maquinas</li>
+                    <li data-filter=".filter-machine">Máquinas</li>
                     <li data-filter=".filter-chemical">Químico</li>
                     <li data-filter=".filter-jar">Tarro liso</li>
                     <li data-filter=".filter-web">Tarro profesional</li>
@@ -387,7 +387,7 @@
                         <div class="portfolio-img"><img src="assets/img/alcoholero/alcoholera1-2(medio)R-2835g.png" class="img-fluid" alt=""></div>
                         <div class="portfolio-info">
                             <!-- <h4>App 1</h4> -->
-                            <p>Alcoholera 1-2 (medio) R-28 35g</p>
+                            <p>Alcoholera ½ (un medio) R-28 35g</p>
                             <a href="assets/img/alcoholero/alcoholera1-2(medio)R-2835g.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Alcoholera 1-2 (medio) R-28 35g"><i class="bx bx-plus"></i></a>
                             <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
@@ -396,7 +396,7 @@
                         <div class="portfolio-img"><img src="assets/img/alcoholero/alcoholero-1-8-(un octavo)-R-28-15g.png" class="img-fluid" alt=""></div>
                         <div class="portfolio-info">
                             <!-- <h4>App 2</h4> -->
-                            <p>Alcoholero 1-8 (un octavo) R-28 15g</p>
+                            <p>Alcoholero ⅛ (un octavo) R-28 15g</p>
                             <a href="assets/img/alcoholero/alcoholero-1-8-(un octavo)-R-28-15g.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Alcoholero 1-8 (un octavo) R-28 15g"><i class="bx bx-plus"></i></a>
                             <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
@@ -414,7 +414,7 @@
                         <div class="portfolio-img"><img src="assets/img/alcoholero/alcoholero1-4(uncuarto)R-28-20g-.png" class="img-fluid" alt=""></div>
                         <div class="portfolio-info">
                             <!-- <h4>App 3</h4> -->
-                            <p>Alcoholero (un cuarto) R 28 20g</p>
+                            <p>Alcoholero ¼ (un cuarto) R 28 20g</p>
                             <a href="assets/img/alcoholero/alcoholero1-4(uncuarto)R-28-20g-.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="Alcoholero (un cuarto) R 28 20g"><i class="bx bx-plus"></i></a>
                             <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
@@ -424,7 +424,7 @@
                         <div class="portfolio-img"><img src="assets/img/garrafa/familia de Garrafas.png" class="img-fluid" alt=""></div>
                         <div class="portfolio-info">
                             <!-- <h4>App 3</h4> -->
-                            <p>familia de Garrafas</p>
+                            <p>familia de garrafas</p>
                             <a href="assets/img/alcoholero/familia de Garrafas.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="familia de Garrafas"><i class="bx bx-plus"></i></a>
                             <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
@@ -433,7 +433,7 @@
                         <div class="portfolio-img"><img src="assets/img/garrafa/garrafa 1-2 (medio) L  R-28   35g.png" class="img-fluid" alt=""></div>
                         <div class="portfolio-info">
                             <!-- <h4>App 3</h4> -->
-                            <p>garrafa 1-2 (medio) L R-28 35g</p>
+                            <p>garrafa ½ (un medio) L R-28 35g</p>
                             <a href="assets/img/alcoholero/garrafa 1-2 (medio) L  R-28   35g.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="garrafa 1-2 (medio) L  R-28   35g"><i class="bx bx-plus"></i></a>
                             <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
@@ -451,7 +451,7 @@
                         <div class="portfolio-img"><img src="assets/img/garrafa/garrafa de 1-4 (un cuarto)   R-28    20g.png" class="img-fluid" alt=""></div>
                         <div class="portfolio-info">
                             <!-- <h4>App 3</h4> -->
-                            <p>garrafa de 1-4 (un cuarto) R-28 20g</p>
+                            <p>garrafa de ¼ (un cuarto) R-28 20g</p>
                             <a href="assets/img/alcoholero/garrafa de 1-4 (un cuarto)   R-28    20g.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="garrafa de 1-4 (un cuarto)   R-28    20g"><i class="bx bx-plus"></i></a>
                             <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
@@ -489,7 +489,7 @@
                         <div class="portfolio-img"><img src="assets/img/quimico/aceitero 1L R-28  60g.png" class="img-fluid" alt=""></div>
                         <div class="portfolio-info">
                             <!-- <h4>Web 3</h4> -->
-                            <p>aceitero 1L R-28 60g.png</p>
+                            <p>aceitero 1L R-28 60g</p>
                             <a href="assets/img/quimico/aceitero 1L R-28  60g.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="aceitero 1L R-28  60g"><i class="bx bx-plus"></i></a>
                             <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
@@ -498,7 +498,7 @@
                         <div class="portfolio-img"><img src="assets/img/quimico/aceitero de cuallo  largo 1 y medio Litros  R-28  70g.png" class="img-fluid" alt=""></div>
                         <div class="portfolio-info">
                             <!-- <h4>Web 3</h4> -->
-                            <p>aceitero de cuallo largo 1 y medio Litros R-28 70g.png</p>
+                            <p>aceitero de cuello largo 1 ½ (litro y medio) R-28 70g</p>
                             <a href="assets/img/quimico/aceitero de cuallo  largo 1 y medio Litros  R-28  70g.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="aceitero 1L R-28  60g"><i class="bx bx-plus"></i></a>
                             <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
@@ -507,7 +507,7 @@
                         <div class="portfolio-img"><img src="assets/img/quimico/anticonjelante 1L  R-38    70g.png" class="img-fluid" alt=""></div>
                         <div class="portfolio-info">
                             <!-- <h4>Web 3</h4> -->
-                            <p>anticonjelante 1L R-38 70g.png</p>
+                            <p>anticongelante 1L R-38 70g</p>
                             <a href="assets/img/quimico/anticonjelante 1L  R-38    70g.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="anticonjelante 1L  R-38    70g"><i class="bx bx-plus"></i></a>
                             <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
@@ -516,7 +516,7 @@
                         <div class="portfolio-img"><img src="assets/img/quimico/familia envase quimico.png" class="img-fluid" alt=""></div>
                         <div class="portfolio-info">
                             <!-- <h4>Web 3</h4> -->
-                            <p>familia envase quimico.png</p>
+                            <p>familia envase químico</p>
                             <a href="assets/img/quimico/familia envase quimico.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="familia envase quimico"><i class="bx bx-plus"></i></a>
                             <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
@@ -562,7 +562,7 @@
                         <div class="portfolio-img"><img src="assets/img/tarro liso/tarro liso 1 1-2 (kiloimedio)  R-110   75g-.png" class="img-fluid" alt=""></div>
                         <div class="portfolio-info">
                             <!-- <h4>Web 2</h4> -->
-                            <p>tarro liso 1 1-2 (kiloimedio) R-110 75g-</p>
+                            <p>tarro liso 1 ½ (kilo y medio) R-110 75g</p>
                             <a href="assets/img/tarro liso/tarro liso 1 1-2 (kiloimedio)  R-110   75g-.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="tarro liso 1 1-2 (kiloimedio)  R-110   75g-"><i class="bx bx-plus"></i></a>
                             <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
@@ -571,7 +571,7 @@
                         <div class="portfolio-img"><img src="assets/img/tarro liso/tarro liso 1kg  R-89   50g-.png" class="img-fluid" alt=""></div>
                         <div class="portfolio-info">
                             <!-- <h4>Web 2</h4> -->
-                            <p>tarro liso 1kg R-89 50g-</p>
+                            <p>tarro liso 1kg R-89 50g</p>
                             <a href="assets/img/tarro liso/tarro liso 1kg  R-89   50g-.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="tarro liso 1kg  R-89   50g-"><i class="bx bx-plus"></i></a>
                             <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
@@ -598,7 +598,7 @@
                         <div class="portfolio-img"><img src="assets/img/tarro liso/tarro liso medio   R-89   50g.png" class="img-fluid" alt=""></div>
                         <div class="portfolio-info">
                             <!-- <h4>Web 2</h4> -->
-                            <p>tarro liso medio R-89 50g</p>
+                            <p>tarro liso ½ R-89 50g</p>
                             <a href="assets/img/tarro liso/tarro liso medio   R-89   50g.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="tarro liso medio   R-89   50g"><i class="bx bx-plus"></i></a>
                             <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
@@ -617,7 +617,7 @@
                         <div class="portfolio-img"><img src="assets/img/tarro profesional/tarro profesional 1 1-2 kiloimedio   R-110    75g.png" class="img-fluid" alt=""></div>
                         <div class="portfolio-info">
                             <!-- <h4>Web 2</h4> -->
-                            <p>tarro profesional 1 1-2 kiloimedio R-110 75g</p>
+                            <p>tarro profesional 1 ½ (kilo y medio) R-110 75g</p>
                             <a href="assets/img/tarro profesional/tarro profesional 1 1-2 kiloimedio   R-110    75g.png" data-gallery="portfolioGallery" class="portfolio-lightbox preview-link" title="tarro profesional 1 1-2 kiloimedio   R-110    75g"><i class="bx bx-plus"></i></a>
                             <!-- <a href="portfolio-details.html" class="details-link" title="More Details"><i class="bx bx-link"></i></a> -->
                         </div>
