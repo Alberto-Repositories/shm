@@ -61,7 +61,7 @@
                 <ul>
                     <li><a class="nav-link scrollto active" href="#hero">Inicio</a></li>
                     <li><a class="nav-link scrollto" href="#about">Nosotros</a></li>
-                    <li><a class="nav-link scrollto" href="#services">Servicios</a></li>
+                    <!-- <li><a class="nav-link scrollto" href="#services">Servicios</a></li> -->
                     <li><a class="nav-link scrollto" href="#products">Productos</a></li>
                     <!-- <li><a class="nav-link scrollto " href="#portfolio">Portfolio</a></li>
                     <li><a class="nav-link scrollto" href="#team">Team</a></li> -->
